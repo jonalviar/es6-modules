@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+log/*.log
+tmp/**
+node_modules/
+jspm_packages/
+es6-modules.iml
